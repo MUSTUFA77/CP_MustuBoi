@@ -27,4 +27,8 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
