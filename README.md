@@ -6,6 +6,7 @@ This Repo contains solutions to the problems solved
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -30,5 +31,6 @@ This Repo contains solutions to the problems solved
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
