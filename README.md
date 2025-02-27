@@ -33,4 +33,8 @@ This Repo contains solutions to the problems solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
