@@ -8,6 +8,7 @@ This Repo contains solutions to the problems solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
+| [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ This Repo contains solutions to the problems solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
 ## Database
 |  |
 | ------- |
@@ -40,4 +42,8 @@ This Repo contains solutions to the problems solved
 | [1153-product-sales-analysis-i](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
