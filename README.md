@@ -9,6 +9,7 @@ This Repo contains solutions to the problems solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
 | [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This Repo contains solutions to the problems solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Database
 |  |
 | ------- |
@@ -46,4 +48,8 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
