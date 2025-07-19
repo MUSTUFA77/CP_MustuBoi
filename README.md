@@ -15,6 +15,7 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
+| [3396-valid-word](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/3396-valid-word) |
 ## Math
 |  |
 | ------- |
