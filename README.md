@@ -23,6 +23,7 @@ This Repo contains solutions to the problems solved
 | [0202-happy-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +70,8 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
