@@ -37,6 +37,7 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -56,4 +57,8 @@ This Repo contains solutions to the problems solved
 | ------- |
 | [0202-happy-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0202-happy-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
