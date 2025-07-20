@@ -15,11 +15,13 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0412-fizz-buzz) |
 | [3396-valid-word](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/3396-valid-word) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@ This Repo contains solutions to the problems solved
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
