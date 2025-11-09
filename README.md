@@ -39,6 +39,7 @@ This Repo contains solutions to the problems solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1791-richest-customer-wealth) |
@@ -60,6 +61,7 @@ This Repo contains solutions to the problems solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0202-happy-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
