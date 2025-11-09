@@ -14,6 +14,7 @@ This Repo contains solutions to the problems solved
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0412-fizz-buzz) |
@@ -63,6 +64,7 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0202-happy-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
@@ -81,4 +83,8 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
