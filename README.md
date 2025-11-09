@@ -14,6 +14,7 @@ This Repo contains solutions to the problems solved
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0412-fizz-buzz) |
 | [3396-valid-word](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/3396-valid-word) |
@@ -76,4 +77,8 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
