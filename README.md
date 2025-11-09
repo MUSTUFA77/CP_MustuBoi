@@ -43,6 +43,7 @@ This Repo contains solutions to the problems solved
 | ------- |
 | [0001-two-sum](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0056-merge-intervals) |
 | [1603-running-sum-of-1d-array](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -87,4 +88,8 @@ This Repo contains solutions to the problems solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MUSTUFA77/CP_MustuBoi/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
